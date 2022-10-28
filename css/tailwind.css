@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utility;
+
+@layer base{
+    h1,h2{
+        font-family: "Lora", serif;
+    }
+    button{
+        font-family: "Lora", serif;
+    }
+}
